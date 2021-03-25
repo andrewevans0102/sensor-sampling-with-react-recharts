@@ -20,5 +20,5 @@ Here's a guide to the folders:
 
 # Additional Notes
 
-- for the frontend I had to downgrade to React 16, see the GitHub issue athttps://github.com/recharts/recharts/issues/2368
+- for the frontend I had to downgrade to React 16, see the GitHub issue at https://github.com/recharts/recharts/issues/2368
 - The line chart setup for my components I originally copied from the Recharts examples at https://codesandbox.io/s/simple-line-chart-kec3v
