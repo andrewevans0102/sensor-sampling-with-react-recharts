@@ -6,9 +6,9 @@ Cover image was originally copied from [https://pixabay.com/photos/thermometer-s
 
 This is a fun project I did to track the temperature in my old office. I used a Raspberry Pi, Python, React, and Recharts to gather some temperature information and do some data visualization.
 
-This repo also goes with my companion blog post [Sensor Sampling with React Recharts]().
+This repo also goes with my companion blog post [Sensor Sampling with React Recharts](https://rhythmandbinary.com/post/2021-03-24-temperature-sampling-with-a-raspberry-pi-python-react-and-recharts).
 
-I also deployed this project on Netlify at [deployed]();
+I also deployed this project on Netlify at [https://peaceful-pare-b633fb.netlify.app](https://peaceful-pare-b633fb.netlify.app).
 
 Here's a guide to the folders:
 
